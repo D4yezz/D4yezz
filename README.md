@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/github-user-content/uploads/1/D4yezz" alt="Profile Views" />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=D4yezz.D4yezz&"  />
 </p>
 
 ---
@@ -106,6 +106,12 @@ I love turning ideas into clean, modern, and functional interfaces, whether it's
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4yezz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D4yezz&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=6366F1&point=FFFFFF" alt="Activity Graph" width="100%"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4yezz/D4yezz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4yezz/D4yezz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D4yezz/D4yezz/output/pacman-contribution-graph.svg">
+</picture>
 
 <br/>
 
