@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3JmcHI0d3gzc3RiaXRzeDFvMTRnYXU0cDhzYmtyMjk3YjZ3YWFlcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZS57kdXudVqsDX0TLH/giphy.gif" width="50%" alt="Header"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3JmcHI0d3gzc3RiaXRzeDFvMTRnYXU0cDhzYmtyMjk3YjZ3YWFlcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZS57kdXudVqsDX0TLH/giphy.gif" width="30%" alt="Header"/>
 </div>
 
 <h1 align="center">
@@ -15,7 +15,6 @@
 ### 👨‍💻 About Me
 
 Hey! I'm **Dayezz**, a student and self-taught web developer with **2 years** of hands-on experience building digital stuff that actually works 😎
-
 I love turning ideas into clean, modern, and functional interfaces, whether it's for fun, learning, or real projects.
 
 <br/>
@@ -106,7 +105,7 @@ I love turning ideas into clean, modern, and functional interfaces, whether it's
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4yezz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D4yezz&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=6366F1&point=FFFFFF" alt="Activity Graph" width="100%"/>
 </div>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4yezz/D4yezz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D4yezz/D4yezz/output/pacman-contribution-graph.svg">
