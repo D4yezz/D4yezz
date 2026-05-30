@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Dayezz;Front-end+Developer;Self-Taught+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Dayezz;Full-Stack+Developer;Self-Taught+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,8 +14,12 @@
 
 ### 👨‍💻 About Me
 
-Hey! I'm **Dayezz**, a student and self-taught web developer with **2 years** of hands-on experience building digital stuff that actually works 😎
-I love turning ideas into clean, modern, and functional interfaces, whether it's for fun, learning, or real projects.
+Hey! I'm **Dayezz**, a vocational high school graduate with a major in Software Engineering who is dedicated to building a
+professional career in web development. I have experience building Software as a Service (SaaS)
+platforms. I specialize in React.js and Next.js, with expertise in database integration, APIs, authentication,
+performance optimization, and testing to minimize bugs. Adaptable to AI technology trends to enhance
+development efficiency and committed to maintaining clean code to facilitate team collaboration and
+support long-term feature development.
 
 <br/>
 
@@ -49,7 +53,7 @@ I love turning ideas into clean, modern, and functional interfaces, whether it's
 ### 🎯 What I'm Aiming For
 
 - 🚀 Becoming a solid front-end engineer
-- ⛓️ Exploring Web3 & blockchain dev
+- ⛓️ Exploring the Development of AI & Web3
 - 💼 Growing as a business-minded creator
 - ✨ Leveling up my portfolio with clean, aesthetic projects
 
@@ -64,9 +68,12 @@ I love turning ideas into clean, modern, and functional interfaces, whether it's
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="framermotion" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" alt="zustand" width="45" height="45"/>
 </p>
 </details>
 
@@ -74,9 +81,11 @@ I love turning ideas into clean, modern, and functional interfaces, whether it's
 <summary><b>Backend & Database</b></summary>
 <br/>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="prisma" width="45" height="45"/>
 </p>
 </details>
 
@@ -84,11 +93,12 @@ I love turning ideas into clean, modern, and functional interfaces, whether it's
 <summary><b>Design & Tools</b></summary>
 <br/>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="45" height="45"/>
 </p>
 </details>
 
